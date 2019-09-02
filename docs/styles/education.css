@@ -54,6 +54,16 @@ ul
 	list-style: none;
 	margin-bottom: 0px;
 }
+ul.listaordered{
+	list-style-type: disc;
+	list-style-position: outside;
+	color: black;
+	width: 90%;
+	margin:0px auto;
+}
+ul.listaordered li{
+	 list-style-position: outside;
+}
 p
 {
 	font-family: 'Montserrat', sans-serif;
